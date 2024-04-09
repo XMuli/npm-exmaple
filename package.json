@@ -1,0 +1,27 @@
+{
+  "name": "npm-exmaple",
+  "version": "1.0.0",
+  "description": "Hello npmjs, it is my first npm hello package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XMuli/npm-exmaple.git"
+  },
+  "keywords": [
+    "hello",
+    "word",
+    "npm",
+    "js",
+    "first",
+    "example"
+  ],
+  "author": "XMuli Tech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XMuli/npm-exmaple/issues"
+  },
+  "homepage": "https://github.com/XMuli/npm-exmaple#readme"
+}
