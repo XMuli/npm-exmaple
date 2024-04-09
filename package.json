@@ -1,6 +1,6 @@
 {
   "name": "npm-exmaple",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "description": "Hello npmjs, it is my first npm hello package.",
   "main": "index.js",
   "scripts": {
