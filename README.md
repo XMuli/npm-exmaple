@@ -1,12 +1,15 @@
 # npm-exmaple
 
-[![](https://img.shields.io/badge/GITHUB-npm exmaple-ff69b4)](https://github.com/XMuli/npm-exmaple)  [![](https://img.shields.io/badge/NPM-npm exmaple-92ddfe)](https://www.npmjs.com/package/npm-exmaple)  ![](https://img.shields.io/github/license/XMuli/npm-exmaple)
+ ![](https://img.shields.io/github/license/XMuli/npm-exmaple)
+
+- GitHub: [npm-exmaple](https://github.com/XMuli/npm-exmaple)  
+- Nodejs: [npm-exmaple](https://www.npmjs.com/package/npm-exmaple) 
 
 
 
 ### Describe
 
-Hello npmjs, it is my first npm hello package.
+Hello npmjs, it is my first npm hello package.   
 
 
 
